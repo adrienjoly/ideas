@@ -1,0 +1,23 @@
+{
+  "name": "wunderlist-to-md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wunderlist-to-md.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node wunderlist-to-md.js wunderlist-20170805-16-12-22.json 131400047 >index.md",
+    "test": "python -m SimpleHTTPServer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrienjoly/ideas.git"
+  },
+  "author": "Adrien Joly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrienjoly/ideas/issues"
+  },
+  "homepage": "https://github.com/adrienjoly/ideas#readme"
+}
