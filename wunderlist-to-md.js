@@ -4,10 +4,10 @@ const URL_PREFIX = process.argv[4] || 'https://adrienjoly.com/ideas#';
 const TWITTER_USERNAME = process.argv[5] || 'adrienjoly';
 
 const highlightTags = str => !str ? '' : str
-  .replace(/(^|[ ])(\#[^ ]+)/g, '$1<span class="hashtag">$2</span>');
+  .replace(/(^|[\( ])(\#[^\,\) $]+)/g, '$1<span class="hashtag">$2</span>');
 
 const renderLinks = str => !str ? '' : str
-  .replace(/(https?\:\/\/([^\/ $]+)[^ $]*)/g, `<a href="$1">$2</a>`);
+  .replace(/(^|[\( )])(https?\:\/\/([^\/\,\) $]+)[^\,\) $]*)/g, `$1<a href="$2">$3</a>`);
 
 const processText = str => renderLinks(highlightTags(str));
 

@@ -1580,7 +1580,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- Service to help young music bands find gigs to open for (<a href="http://www.ideaswatch.com/startup-idea/facebook-social-app-for-musicians)">www.ideaswatch.com</a> 
+- Service to help young music bands find gigs to open for (<a href="http://www.ideaswatch.com/startup-idea/facebook-social-app-for-musicians">www.ideaswatch.com</a>) 
   <span id="779145675" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
