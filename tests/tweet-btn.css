@@ -1,4 +1,4 @@
-html {
+.btn-o {
   margin: 0;
   padding: 0;
   font: normal normal normal 11px/18px 'Helvetica Neue',Arial,sans-serif;
@@ -9,13 +9,13 @@ html {
   user-select: none
 }
 
-body {
+.btn-o {
   margin: 0;
   padding: 0;
   background: 0 0
 }
 
-a {
+.btn-o a {
   outline: 0;
   text-decoration: none
 }
