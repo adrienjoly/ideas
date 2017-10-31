@@ -4,7 +4,7 @@ const URL_PREFIX = process.argv[4] || 'https://adrienjoly.com/ideas#';
 const TWITTER_USERNAME = process.argv[5] || 'adrienjoly';
 
 const highlightTags = str => !str ? '' : str
-  .replace(/(\#[^ ]+)/g, '<span class="hashtag">$1</span>');
+  .replace(/(^|[ ])(\#[^ ]+)/g, '$1<span class="hashtag">$2</span>');
 
 const sanitize = str => !str ? '' : str
   .replace(/"/g, '&quot;')

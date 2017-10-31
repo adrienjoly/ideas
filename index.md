@@ -8,7 +8,7 @@ title: Adrien Joly's ideas
 - Web-based bittorrent client (URL to direct download) ✅
 - A web-based remote control for whyd.com (when playing on another computer) ✅
 - A chrome extension that links each contact to their corresponding contact details form on contacts.google.com ✅
-- A way to group my incoming email based on my Google Contacts groups -> https://productforums.google.com/forum/<span class="hashtag">#!category-topic/gmail/share-and-discuss-with-others/reading-and-receiving-messages/mac/google-chrome/GE-C9h1r_UA</span> ✅
+- A way to group my incoming email based on my Google Contacts groups -> https://productforums.google.com/forum/#!category-topic/gmail/share-and-discuss-with-others/reading-and-receiving-messages/mac/google-chrome/GE-C9h1r_UA ✅
 - "Done list", a service that would congratulate you for all the tasks that you checked today, in your favorite todo-list app. ✅
 - A service that agregates opinions about topics (e.g. Technologies), and allows comparing one with another. e.g. Emberjs vs Angularjs? ✅
 - 1poll: a simple doodle alternative that would allow participants to add dates (and vote for them) in a textual format, in a vertical list instead of a table ✅
