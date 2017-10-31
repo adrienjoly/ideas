@@ -8,13 +8,13 @@ title: Adrien Joly's ideas
 - Web-based bittorrent client (URL to direct download) ✅
 - A web-based remote control for whyd.com (when playing on another computer) ✅
 - A chrome extension that links each contact to their corresponding contact details form on contacts.google.com ✅
-- A way to group my incoming email based on my Google Contacts groups -> https://productforums.google.com/forum/#!category-topic/gmail/share-and-discuss-with-others/reading-and-receiving-messages/mac/google-chrome/GE-C9h1r_UA ✅
+- A way to group my incoming email based on my Google Contacts groups -> https://productforums.google.com/forum/<span class="hashtag">#!category-topic/gmail/share-and-discuss-with-others/reading-and-receiving-messages/mac/google-chrome/GE-C9h1r_UA</span> ✅
 - "Done list", a service that would congratulate you for all the tasks that you checked today, in your favorite todo-list app. ✅
 - A service that agregates opinions about topics (e.g. Technologies), and allows comparing one with another. e.g. Emberjs vs Angularjs? ✅
 - 1poll: a simple doodle alternative that would allow participants to add dates (and vote for them) in a textual format, in a vertical list instead of a table ✅
 - "Copy That": An app that would convert a screenshot into a PDF with OCR'ed / copy-paste-able text. ✅
-- #music "Upbeat50", a smart spotify 50-track playlist based on your favorite upbeat tracks. To sync for offline listening during commute to work. Would be updated every week or month. ✅
-- #productivity "next step" for trello cards (chrome ext.): displays the next actionnable step under the title of each trello card ✅
+- <span class="hashtag">#music</span> "Upbeat50", a smart spotify 50-track playlist based on your favorite upbeat tracks. To sync for offline listening during commute to work. Would be updated every week or month. ✅
+- <span class="hashtag">#productivity</span> "next step" for trello cards (chrome ext.): displays the next actionnable step under the title of each trello card ✅
 ## Not done yet
 - Script to automatically backup book/reading highlights from https://app.blinkist.com/en/highlights/ to google drive 
   <span id="2159980202" class="vote-button">
@@ -33,7 +33,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity a Google-Inbox-inspired task management UI (with bundles and snooze) that also allows re-ordering tasks 
+- <span class="hashtag">#productivity</span> a Google-Inbox-inspired task management UI (with bundles and snooze) that also allows re-ordering tasks 
   <span id="2096660781" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -50,7 +50,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #app Canned replies for any app (virtual keyboard + screen scraping, alternative to chatbots) 
+- <span class="hashtag">#app</span> Canned replies for any app (virtual keyboard + screen scraping, alternative to chatbots) 
   <span id="2018795689" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -84,7 +84,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #music AlbumKeeper: a personal list of favorite music albums that can play from various streaming platforms. and a bookmarklet/extension for quickly adding an album found on the web. 
+- <span class="hashtag">#music</span> AlbumKeeper: a personal list of favorite music albums that can play from various streaming platforms. and a bookmarklet/extension for quickly adding an album found on the web. 
   <span id="2007565430" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -101,7 +101,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #comm Whozzup: Share your availability status and propose fun plans to local friends, in order to meet up quickly! 
+- <span class="hashtag">#comm</span> Whozzup: Share your availability status and propose fun plans to local friends, in order to meet up quickly! 
   <span id="2007480055" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -135,7 +135,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #WIP a CLI to share side-project ideas and be matched with other ideas to collaborate on 
+- <span class="hashtag">#WIP</span> a CLI to share side-project ideas and be matched with other ideas to collaborate on 
   <span id="1976901460" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -152,7 +152,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity Tasks2agenda: a productivity app that "fills" remaining work timeslots of my calendar with tasks from my todolist, according to my objectives/rules and deadlines. so that I always know what I have to do, when. 
+- <span class="hashtag">#productivity</span> Tasks2agenda: a productivity app that "fills" remaining work timeslots of my calendar with tasks from my todolist, according to my objectives/rules and deadlines. so that I always know what I have to do, when. 
   <span id="1976335530" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -169,7 +169,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity possibility to answer "can I finish report (2 hrs, for xxx) for Wednesday?", because it knows my planning, my time budget per project (big picture) and extras availabilities  
+- <span class="hashtag">#productivity</span> possibility to answer "can I finish report (2 hrs, for xxx) for Wednesday?", because it knows my planning, my time budget per project (big picture) and extras availabilities  
   <span id="1969471198" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -186,7 +186,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #dev a Firebase/Parse wrapper that would implement Meteor reactive collections's API, without having to use Meteor as backend 
+- <span class="hashtag">#dev</span> a Firebase/Parse wrapper that would implement Meteor reactive collections's API, without having to use Meteor as backend 
   <span id="1951491418" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -203,7 +203,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #comm Collaborative Q&A notepad => chatbot that asks one question at a time? 
+- <span class="hashtag">#comm</span> Collaborative Q&A notepad => chatbot that asks one question at a time? 
   <span id="1946548494" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -220,7 +220,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #WIP "Freelance Directory": A chatbot or web ui in which freelancers can toggle technologies for which then would like to receive missions, and share missions to relevant colleagues depending on underlying technologies 
+- <span class="hashtag">#WIP</span> "Freelance Directory": A chatbot or web ui in which freelancers can toggle technologies for which then would like to receive missions, and share missions to relevant colleagues depending on underlying technologies 
   <span id="1931155630" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -237,7 +237,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info a search engine that allows users to explain the structure of the results they expect, like in GraphQL 
+- <span class="hashtag">#info</span> a search engine that allows users to explain the structure of the results they expect, like in GraphQL 
   <span id="1922977223" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -254,7 +254,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #motivation A bookmarklet to grab inspiring quotes from any website + a mobile app that pushes one of those quotes every morning 
+- <span class="hashtag">#motivation</span> A bookmarklet to grab inspiring quotes from any website + a mobile app that pushes one of those quotes every morning 
   <span id="1898161951" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -271,7 +271,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity A replacement to Facebook/Twitter's feed that displays interesting activities to undertake, instead of passive consumption of friends'  updates 
+- <span class="hashtag">#productivity</span> A replacement to Facebook/Twitter's feed that displays interesting activities to undertake, instead of passive consumption of friends'  updates 
   <span id="1869784170" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -288,7 +288,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #comm "Reason for call": Add "subject" to phone calls, like for email. => tells concisely to the callee why I'd like to talk to him, so that he can decide to take the call or not 
+- <span class="hashtag">#comm</span> "Reason for call": Add "subject" to phone calls, like for email. => tells concisely to the callee why I'd like to talk to him, so that he can decide to take the call or not 
   <span id="1866183979" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -305,7 +305,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity Telegram-based task management bot 
+- <span class="hashtag">#productivity</span> Telegram-based task management bot 
   <span id="1858976423" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -322,7 +322,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #tv A way to explore my Wunderlist ToDo-lists from Apple TV 3, and play Youtube URLs from it. 
+- <span class="hashtag">#tv</span> A way to explore my Wunderlist ToDo-lists from Apple TV 3, and play Youtube URLs from it. 
   <span id="1815316220" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -339,7 +339,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #dev an IDE that proposes javascript snippets when I type "// want HTTP request with 3 retries" (or similar queries) 
+- <span class="hashtag">#dev</span> an IDE that proposes javascript snippets when I type "// want HTTP request with 3 retries" (or similar queries) 
   <span id="1805995953" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -356,7 +356,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #app "Vinder": A Tinder-like dating app for vegetarian and vegan people. 
+- <span class="hashtag">#app</span> "Vinder": A Tinder-like dating app for vegetarian and vegan people. 
   <span id="1805992308" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -373,7 +373,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity script qui m'annonce mes taches wunderlist du jour (today + deadline) 
+- <span class="hashtag">#productivity</span> script qui m'annonce mes taches wunderlist du jour (today + deadline) 
   <span id="1747005354" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -390,7 +390,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #afk A fun public event in which speakers have to improvise a presentation, given a random set of slides 
+- <span class="hashtag">#afk</span> A fun public event in which speakers have to improvise a presentation, given a random set of slides 
   <span id="1740602141" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -407,7 +407,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #comm "The Second Chatroom": A way for a group of co-located people to share URLs and notes quickly and collectively from their smartphones, without having to sign up / install anything. (need expressed during a Meteor meetup) 
+- <span class="hashtag">#comm</span> "The Second Chatroom": A way for a group of co-located people to share URLs and notes quickly and collectively from their smartphones, without having to sign up / install anything. (need expressed during a Meteor meetup) 
   <span id="1716760491" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -424,7 +424,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #comm A banner that offers to help you increase the quality of your Skype/Hangout call (eg. close apps, switch wifi) 
+- <span class="hashtag">#comm</span> A banner that offers to help you increase the quality of your Skype/Hangout call (eg. close apps, switch wifi) 
   <span id="1716752044" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -441,7 +441,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #hardware A wifi access-point that gives access to a local web server (that serves exercises for students) + shares limited internet access (e.g. no email, no chat). Using a Intel Edison / Arduino / Raspberry board ? 
+- <span class="hashtag">#hardware</span> A wifi access-point that gives access to a local web server (that serves exercises for students) + shares limited internet access (e.g. no email, no chat). Using a Intel Edison / Arduino / Raspberry board ? 
   <span id="1716638076" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -458,7 +458,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #dev un chatbot slack / CLI (en ligne) a qui tu explique ton idée de startup, il la compare a des produits de product hunt en se basant sur les mots clés pour voir si tu te dégonfles 
+- <span class="hashtag">#dev</span> un chatbot slack / CLI (en ligne) a qui tu explique ton idée de startup, il la compare a des produits de product hunt en se basant sur les mots clés pour voir si tu te dégonfles 
   <span id="1675624701" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -475,7 +475,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #dev un CLI a qui tu proposes des noms de domaine, et il te dit si c'est pris ou pas. sinon il te donne le tarif d'ovh. 
+- <span class="hashtag">#dev</span> un CLI a qui tu proposes des noms de domaine, et il te dit si c'est pris ou pas. sinon il te donne le tarif d'ovh. 
   <span id="1675623367" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -492,7 +492,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Compile multiple FAQ pages into a neat wiki-like summary (ex: a decision tree of solutions based on several specific cases) 
+- <span class="hashtag">#info</span> Compile multiple FAQ pages into a neat wiki-like summary (ex: a decision tree of solutions based on several specific cases) 
   <span id="1672762627" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -509,7 +509,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #dev a mixpanel-like analytics tool that plugs into a service's back-end (instead of front-end trackers, as typically done) 
+- <span class="hashtag">#dev</span> a mixpanel-like analytics tool that plugs into a service's back-end (instead of front-end trackers, as typically done) 
   <span id="1666170120" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -526,7 +526,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #app "Hey…you!": A mobile app to recall names and faces of acquaintances / students / contacts, for each company / class / place. Would find and fetch photos from Linkedin, Google Images, and work offline. 
+- <span class="hashtag">#app</span> "Hey…you!": A mobile app to recall names and faces of acquaintances / students / contacts, for each company / class / place. Would find and fetch photos from Linkedin, Google Images, and work offline. 
   <span id="1565118688" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -543,7 +543,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info An infinite outliner that works offline, is easy to edit from phone, and auto-transforms URLs into their page title. 
+- <span class="hashtag">#info</span> An infinite outliner that works offline, is easy to edit from phone, and auto-transforms URLs into their page title. 
   <span id="1554436076" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -560,7 +560,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info A language/format for expressing legal terms (e.g. terms of service) in a concise and clear manner, based on difference with "usual" terms 
+- <span class="hashtag">#info</span> A language/format for expressing legal terms (e.g. terms of service) in a concise and clear manner, based on difference with "usual" terms 
   <span id="1520567860" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -628,7 +628,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #hardware #biz "Fair Wifi": Routers that enforce Quality of Service (QoS) rules and fair bandwidth sharing between users, for "Free Wifi" spots in hotels, restaurants and bars. 
+- <span class="hashtag">#hardware</span> <span class="hashtag">#biz</span> "Fair Wifi": Routers that enforce Quality of Service (QoS) rules and fair bandwidth sharing between users, for "Free Wifi" spots in hotels, restaurants and bars. 
   <span id="1461984239" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -645,7 +645,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #app that times speech of each participant of a vocal conversation, by recognizing their voice 
+- <span class="hashtag">#app</span> that times speech of each participant of a vocal conversation, by recognizing their voice 
   <span id="1461052927" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -662,7 +662,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info "Captain Log": A web platform for developers to keep (and optionally share) a diary/log of their learnings, like if they were tweeting while working. 
+- <span class="hashtag">#info</span> "Captain Log": A web platform for developers to keep (and optionally share) a diary/log of their learnings, like if they were tweeting while working. 
   <span id="1447263299" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -679,7 +679,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity A browser extension that would measure how much time you spend reading and writing emails to each of your contacts #timetracking 
+- <span class="hashtag">#productivity</span> A browser extension that would measure how much time you spend reading and writing emails to each of your contacts <span class="hashtag">#timetracking</span> 
   <span id="1447143685" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -696,7 +696,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #biz a web service in which users would post a job they want to get done by a professional, and professionals would compete with public offers, so that the user can pick the most relevant/convincing one 
+- <span class="hashtag">#biz</span> a web service in which users would post a job they want to get done by a professional, and professionals would compete with public offers, so that the user can pick the most relevant/convincing one 
   <span id="1373176051" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -713,7 +713,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info a shazam for finding a web/mobile app that would solve your need, based on a description of how the app would look like 
+- <span class="hashtag">#info</span> a shazam for finding a web/mobile app that would solve your need, based on a description of how the app would look like 
   <span id="1373173581" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -730,7 +730,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info a web browser that keeps and maintains a structured memory of the findings you made while browsing. 
+- <span class="hashtag">#info</span> a web browser that keeps and maintains a structured memory of the findings you made while browsing. 
   <span id="1295773792" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -747,7 +747,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #hardware an alarm clock that would project weather report, agenda and inspirational quotes on my wall + good morning music 
+- <span class="hashtag">#hardware</span> an alarm clock that would project weather report, agenda and inspirational quotes on my wall + good morning music 
   <span id="1288266862" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -764,7 +764,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #comm "Gratefulness jar": a platform to share testimonials about people (e.g. "<name of person> helped me solve my problem, thank you!", so that they can be displayed to others. => money-free alternative to "donate" buttons 
+- <span class="hashtag">#comm</span> "Gratefulness jar": a platform to share testimonials about people (e.g. "<name of person> helped me solve my problem, thank you!", so that they can be displayed to others. => money-free alternative to "donate" buttons 
   <span id="1254533422" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -781,7 +781,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info A map of local bars, based on my preferences and activity: friends, business meeting, etc... 
+- <span class="hashtag">#info</span> A map of local bars, based on my preferences and activity: friends, business meeting, etc... 
   <span id="1190907253" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -798,7 +798,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #music "Headphones Time": A popcorn-time-like app for collecting and playing playlists of tracks from various streaming services. (Youtube, Soundcloud, Bandcamp, Spotify…) (similarly to whyd) 
+- <span class="hashtag">#music</span> "Headphones Time": A popcorn-time-like app for collecting and playing playlists of tracks from various streaming services. (Youtube, Soundcloud, Bandcamp, Spotify…) (similarly to whyd) 
   <span id="1170148337" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -815,7 +815,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #tv A simple way to stream nice indie films (i.e. a popcorn time for the kind of films that are accepted at the sundance festival) 
+- <span class="hashtag">#tv</span> A simple way to stream nice indie films (i.e. a popcorn time for the kind of films that are accepted at the sundance festival) 
   <span id="1141648816" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -832,7 +832,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info A service to regularly test other services, to make sure I can still rely on them. (ex: my data is still synchronized/indexed on those services) 
+- <span class="hashtag">#info</span> A service to regularly test other services, to make sure I can still rely on them. (ex: my data is still synchronized/indexed on those services) 
   <span id="1127080523" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -849,7 +849,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #biz An Amazon-like web marketplace that would tell you where to find every product, in real stores near you, right now. 
+- <span class="hashtag">#biz</span> An Amazon-like web marketplace that would tell you where to find every product, in real stores near you, right now. 
   <span id="1111859022" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -866,7 +866,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info "Recipegram/recipechart": A book of recipes, in which each recipe is explained by a flowchart showing the combinations from its ingredients to the final result. 
+- <span class="hashtag">#info</span> "Recipegram/recipechart": A book of recipes, in which each recipe is explained by a flowchart showing the combinations from its ingredients to the final result. 
   <span id="1101059631" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -883,7 +883,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #dev A service that logs error 404 pages and other user browsing anomalies, in order for the developer to prioritize fixes to make on the site 
+- <span class="hashtag">#dev</span> A service that logs error 404 pages and other user browsing anomalies, in order for the developer to prioritize fixes to make on the site 
   <span id="1060770477" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -900,7 +900,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #biz A service that allows visitors to fix typos on any blog, and get rewarded for it 
+- <span class="hashtag">#biz</span> A service that allows visitors to fix typos on any blog, and get rewarded for it 
   <span id="1052577546" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -934,7 +934,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #crea A series of short episodes representing famous film directors trying to convince a studio with a crazy script  idea, followed by and extract of the actual film #tv #series #comedy 
+- <span class="hashtag">#crea</span> A series of short episodes representing famous film directors trying to convince a studio with a crazy script  idea, followed by and extract of the actual film <span class="hashtag">#tv</span> <span class="hashtag">#series</span> <span class="hashtag">#comedy</span> 
   <span id="1048510488" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -951,7 +951,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #crea A "Zapping" of what happened (and what normal life looked like) for every year since 2000 B.C., in 3 minutes per episode #tv #series 
+- <span class="hashtag">#crea</span> A "Zapping" of what happened (and what normal life looked like) for every year since 2000 B.C., in 3 minutes per episode <span class="hashtag">#tv</span> <span class="hashtag">#series</span> 
   <span id="1048508671" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -968,7 +968,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity "Next Task": A todo-list app that helps you split big/scary tasks into smaller steps, and emphasises the next step to take towards your goals 
+- <span class="hashtag">#productivity</span> "Next Task": A todo-list app that helps you split big/scary tasks into smaller steps, and emphasises the next step to take towards your goals 
   <span id="1039769473" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -985,7 +985,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #tv "5 minutes to kill": an app that fills 5 minutes (e.g. between two pomodoro tasks, or while waiting in line) with quick reads from pocket/readitlater, short videos from youtube, fun facts, and quizzes… #procrastination 
+- <span class="hashtag">#tv</span> "5 minutes to kill": an app that fills 5 minutes (e.g. between two pomodoro tasks, or while waiting in line) with quick reads from pocket/readitlater, short videos from youtube, fun facts, and quizzes… <span class="hashtag">#procrastination</span> 
   <span id="1007978221" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1002,7 +1002,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity Sorting TODO tasks by mood; e.g. "lazy", "creative", "quick-wins", "focus", "learning"... 
+- <span class="hashtag">#productivity</span> Sorting TODO tasks by mood; e.g. "lazy", "creative", "quick-wins", "focus", "learning"... 
   <span id="1005417110" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1019,7 +1019,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- A app-less phone based on a terminal/box that realizes fonctionality based on the nature of entered data, cf https://medium.com/@adrienjoly/un-telephone-sans-apps-ef4c49519674 #nophone 
+- A app-less phone based on a terminal/box that realizes fonctionality based on the nature of entered data, cf https://medium.com/@adrienjoly/un-telephone-sans-apps-ef4c49519674 <span class="hashtag">#nophone</span> 
   <span id="1002819394" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1036,7 +1036,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #motivation "First thing in the morning": an app that motivates you every morning to achieve the tasks you had planned for the day, by: - listing the tasks you have achieved yesterday - listing today's tasks - displaying a motivational photo 
+- <span class="hashtag">#motivation</span> "First thing in the morning": an app that motivates you every morning to achieve the tasks you had planned for the day, by: - listing the tasks you have achieved yesterday - listing today's tasks - displaying a motivational photo 
   <span id="998977788" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1053,7 +1053,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info An offline map of closest HSBC ATMs, in the whole world (could be nicely done using polymer) 
+- <span class="hashtag">#info</span> An offline map of closest HSBC ATMs, in the whole world (could be nicely done using polymer) 
   <span id="963673289" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1070,7 +1070,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info An algorithm to detect rhetorical abuse and bullshit in conversation, and would underline them in social media discussion. (like spell check) 
+- <span class="hashtag">#info</span> An algorithm to detect rhetorical abuse and bullshit in conversation, and would underline them in social media discussion. (like spell check) 
   <span id="940568495" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1087,7 +1087,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Improve "Card this to trello" (Chome extension) so that it uploads a screenshot of the current page to the card. https://chrome.google.com/webstore/detail/card-this-to-trello/llapjidoaciepmfjchefhhachlmehfdl 
+- <span class="hashtag">#info</span> Improve "Card this to trello" (Chome extension) so that it uploads a screenshot of the current page to the card. https://chrome.google.com/webstore/detail/card-this-to-trello/llapjidoaciepmfjchefhhachlmehfdl 
   <span id="939747334" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1104,7 +1104,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #hardware "Tea time": A thermometer-based device that could be put on a tea cup, and would ring when the tea is at optimal consumption temperature. (in order to not forget drinking the tea) 
+- <span class="hashtag">#hardware</span> "Tea time": A thermometer-based device that could be put on a tea cup, and would ring when the tea is at optimal consumption temperature. (in order to not forget drinking the tea) 
   <span id="937355371" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1121,7 +1121,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info A service to log data entries through a simple api, and allow real-time last-first display of logs. 
+- <span class="hashtag">#info</span> A service to log data entries through a simple api, and allow real-time last-first display of logs. 
   <span id="930826546" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1138,7 +1138,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info A bookmarking tool that would capture content into a personal topic/project, and allow to integrate it later into an outline / hierarchical notepad (i.e. think "Evernote + Workflowy/Diigo") + mobile ui to "reply" easily to  some of the bullet points 
+- <span class="hashtag">#info</span> A bookmarking tool that would capture content into a personal topic/project, and allow to integrate it later into an outline / hierarchical notepad (i.e. think "Evernote + Workflowy/Diigo") + mobile ui to "reply" easily to  some of the bullet points 
   <span id="921737416" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1155,7 +1155,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #music A browser extension that recognizes all songs cited on a web page and allows to play them all. 
+- <span class="hashtag">#music</span> A browser extension that recognizes all songs cited on a web page and allows to play them all. 
   <span id="921424580" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1172,7 +1172,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #biz A service that delivers all items that did not pass airport boarding security (e.g. Perfumes, food, knives) back to their owner's home 
+- <span class="hashtag">#biz</span> A service that delivers all items that did not pass airport boarding security (e.g. Perfumes, food, knives) back to their owner's home 
   <span id="919125213" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1189,7 +1189,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #biz "Products around me": An "around me" app for searching a specific item to buy (e.g "scissors") in surrounding stores 
+- <span class="hashtag">#biz</span> "Products around me": An "around me" app for searching a specific item to buy (e.g "scissors") in surrounding stores 
   <span id="907033840" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1206,7 +1206,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #hardware a reprintable color e-print surface (ex: for album cover) 
+- <span class="hashtag">#hardware</span> a reprintable color e-print surface (ex: for album cover) 
   <span id="901555725" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1223,7 +1223,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info A micro-blog of notes to keep track of personal activities 
+- <span class="hashtag">#info</span> A micro-blog of notes to keep track of personal activities 
   <span id="868783436" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1240,7 +1240,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #dev A notification engine that relies on two models: objectives (ex. make the user come back to the site within 2 days) and a user acceptance model (ex. don't send 3 "XXX followed you" notifications in a row) 
+- <span class="hashtag">#dev</span> A notification engine that relies on two models: objectives (ex. make the user come back to the site within 2 days) and a user acceptance model (ex. don't send 3 "XXX followed you" notifications in a row) 
   <span id="862920722" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1257,7 +1257,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #biz A yelp-like platform that boosts the visibility of new venues 
+- <span class="hashtag">#biz</span> A yelp-like platform that boosts the visibility of new venues 
   <span id="848710304" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1274,7 +1274,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Spreadsheet in which new data is entered at the top (antichronological records) 
+- <span class="hashtag">#info</span> Spreadsheet in which new data is entered at the top (antichronological records) 
   <span id="832616663" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1291,7 +1291,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Conceptual / semantically-linked wiki 
+- <span class="hashtag">#info</span> Conceptual / semantically-linked wiki 
   <span id="789467547" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1308,7 +1308,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #dev Saas for aggregating and delivering (in a personalised manner, e.g. email digest) notifications from various apps 
+- <span class="hashtag">#dev</span> Saas for aggregating and delivering (in a personalised manner, e.g. email digest) notifications from various apps 
   <span id="789465921" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1325,7 +1325,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #comm "Quodle" (Doodle for Q&A): quickly create a public page that can accept anonymous questions, and allows the recipient/company to give (official) replies publicly 
+- <span class="hashtag">#comm</span> "Quodle" (Doodle for Q&A): quickly create a public page that can accept anonymous questions, and allows the recipient/company to give (official) replies publicly 
   <span id="789461415" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1342,7 +1342,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity Smart tasks agregation: only display a list of tasks that are actually TODO, from trello (and wunderlist too?), in a very clear and concise way. Possibility to say a task was done, in one click. 
+- <span class="hashtag">#productivity</span> Smart tasks agregation: only display a list of tasks that are actually TODO, from trello (and wunderlist too?), in a very clear and concise way. Possibility to say a task was done, in one click. 
   <span id="789457896" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1359,7 +1359,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Upload a directory (or set of web links) to the cloud in a grouped manner, so that they can safely be deleted from computer's desktop, or browser 
+- <span class="hashtag">#info</span> Upload a directory (or set of web links) to the cloud in a grouped manner, so that they can safely be deleted from computer's desktop, or browser 
   <span id="789425503" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1376,7 +1376,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Last.fm tab for Facebook band pages, to display the list of their next gigs/concerts 
+- <span class="hashtag">#info</span> Last.fm tab for Facebook band pages, to display the list of their next gigs/concerts 
   <span id="789423093" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1393,7 +1393,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Multipurpose web-capture bookmarklet, to an "open" backend (e.g. google spreadsheet) 
+- <span class="hashtag">#info</span> Multipurpose web-capture bookmarklet, to an "open" backend (e.g. google spreadsheet) 
   <span id="789420575" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1410,7 +1410,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info App to quickly add a freshly-met person (in order to keep in touch), by entering their twitter handle or email, and storing the location of encounter and common topic of interest 
+- <span class="hashtag">#info</span> App to quickly add a freshly-met person (in order to keep in touch), by entering their twitter handle or email, and storing the location of encounter and common topic of interest 
   <span id="789418164" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1427,7 +1427,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #tv A music video jukebox that displays quick interesting facts about the artist, the song, or the period of time it was made. (could be a great feature for playem.org) 
+- <span class="hashtag">#tv</span> A music video jukebox that displays quick interesting facts about the artist, the song, or the period of time it was made. (could be a great feature for playem.org) 
   <span id="789413508" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1444,7 +1444,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info "My index": an efficient way to display and search links to my private documents across several platforms at once (e.g. wunderlist, gmail, gdocs, trello, diigo, evernote…) 
+- <span class="hashtag">#info</span> "My index": an efficient way to display and search links to my private documents across several platforms at once (e.g. wunderlist, gmail, gdocs, trello, diigo, evernote…) 
   <span id="789411430" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1461,7 +1461,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Bookmarklet that sends an article to Pocket or Kindle, and keeps the source so that it can be easily retweeted. 
+- <span class="hashtag">#info</span> Bookmarklet that sends an article to Pocket or Kindle, and keeps the source so that it can be easily retweeted. 
   <span id="789405457" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1478,7 +1478,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #tv Mobile web app to watch series 
+- <span class="hashtag">#tv</span> Mobile web app to watch series 
   <span id="789403185" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1495,7 +1495,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #productivity Simple and flexible task planning app that supports dependencies (e.g. when would C end, if I do A then B) 
+- <span class="hashtag">#productivity</span> Simple and flexible task planning app that supports dependencies (e.g. when would C end, if I do A then B) 
   <span id="789402771" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1512,7 +1512,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Tourism: Generation of cartoville-like city maps with recommended places based on personal preferences 
+- <span class="hashtag">#info</span> Tourism: Generation of cartoville-like city maps with recommended places based on personal preferences 
   <span id="789394888" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1529,7 +1529,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info A recommender system for theatre plays, similar to last.fm 
+- <span class="hashtag">#info</span> A recommender system for theatre plays, similar to last.fm 
   <span id="789390470" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1546,7 +1546,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Find good concerts of local/emerging bands -> http://www.ideaswatch.com/startup-idea/find-good-concerts-of-local-bands 
+- <span class="hashtag">#info</span> Find good concerts of local/emerging bands -> http://www.ideaswatch.com/startup-idea/find-good-concerts-of-local-bands 
   <span id="779148491" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1563,7 +1563,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #comm Keyword-based local chatrooms -> http://www.ideaswatch.com/startup-idea/keyword-based-chatrooms 
+- <span class="hashtag">#comm</span> Keyword-based local chatrooms -> http://www.ideaswatch.com/startup-idea/keyword-based-chatrooms 
   <span id="779147838" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1597,7 +1597,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- #info Archival tool to store middle-resolution version of photos on Google Drive (free) + link to the hi-res version (e.g. stored on DVD) 
+- <span class="hashtag">#info</span> Archival tool to store middle-resolution version of photos on Google Drive (free) + link to the hi-res version (e.g. stored on DVD) 
   <span id="778885522" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1631,6 +1631,10 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script type="text/javascript" src="//opensharecount.com/bubble.js"></script>
-<style>.vote-button{ display:inline-block; opacity:0.5; }</style>
+<style>
+  .hashtag{ color: #0366d6 }
+  .vote-button{ display:inline-block; opacity:0.5; }
+</style>

@@ -3,6 +3,9 @@ const LIST_ID = process.argv[3] || 131400047; // "ideas" list
 const URL_PREFIX = process.argv[4] || 'https://adrienjoly.com/ideas#';
 const TWITTER_USERNAME = process.argv[5] || 'adrienjoly';
 
+const highlightTags = str => !str ? '' : str
+  .replace(/(\#[^ ]+)/g, '<span class="hashtag">$1</span>');
+
 const sanitize = str => !str ? '' : str
   .replace(/"/g, '&quot;')
   .replace(/</g, '&lt;')
@@ -35,7 +38,7 @@ console.log('## Done');
 
 items.filter(task => task.completed).forEach((task) => console.log(
   '-',
-  task.title,
+  highlightTags(task.title),
   '✅'
 ));
 
@@ -43,10 +46,14 @@ console.log('## Not done yet');
 
 items.filter(task => !task.completed && task.title[0] !== '(').forEach((task) => console.log(
   '-',
-  task.title,
+  highlightTags(task.title),
   makeTwitterButton('Idea: ' + task.title, task.id, TWITTER_USERNAME)
 ));
 
-console.log('<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>');
-console.log('<script type="text/javascript" src="//opensharecount.com/bubble.js"></script>');
-console.log('<style>.vote-button{ display:inline-block; opacity:0.5; }</style>');
+console.log(`
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script type="text/javascript" src="//opensharecount.com/bubble.js"></script>
+<style>
+  .hashtag{ color: #0366d6 }
+  .vote-button{ display:inline-block; opacity:0.5; }
+</style>`);
