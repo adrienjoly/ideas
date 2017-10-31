@@ -4,7 +4,7 @@ const URL_PREFIX = process.argv[4] || 'https://adrienjoly.com/ideas#';
 const TWITTER_USERNAME = process.argv[5] || 'adrienjoly';
 
 const sanitize = str => !str ? '' : str
-  .replace(/"/g, '\\"')
+  .replace(/"/g, '&quot;')
   .replace(/</g, '&lt;')
   .replace(/>/g, '&gt;');
 
