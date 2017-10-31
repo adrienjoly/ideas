@@ -3,7 +3,12 @@ const LIST_ID = process.argv[3] || 131400047; // "ideas" list
 const URL_PREFIX = process.argv[4] || 'https://adrienjoly.com/ideas#';
 const TWITTER_USERNAME = process.argv[5] || 'adrienjoly';
 
-const makeTwitterButton = (text, url, via, hastag) => `<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="${text}" data-url="${url}" data-via="${via}" data-hashtags="${hastag}" data-related="${via}" data-show-count="true">Tweet</a><a href="http://leadstories.com/opensharecount" target="_blank" class="osc-counter" data-dir="left" title="Powered by Lead Stories' OpenShareCount">0</a>`;
+const sanitize = str => !str ? '' : str
+  .replace(/"/g, '\\"')
+  .replace(/</g, '&lt;')
+  .replace(/>/g, '&gt;');
+
+const makeTwitterButton = (text, url, via, hastag) => `<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="${sanitize(text)}" data-url="${sanitize(url)}" data-via="${sanitize(via)}" data-hashtags="${sanitize(hastag)}" data-related="${sanitize(via)}" data-show-count="true">Tweet</a><a href="http://leadstories.com/opensharecount" target="_blank" class="osc-counter" data-dir="left" title="Powered by Lead Stories' OpenShareCount">0</a>`;
 
 json.data.tasks
   .filter(task => task.list_id == LIST_ID)
