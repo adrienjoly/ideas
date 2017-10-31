@@ -3,20 +3,11 @@ title: Adrien Joly's ideas
 ---
 
 <link rel="stylesheet" href="tests/tweet-btn.css?v2">
-## Done
-- Idea: a shortcut to paste (⌘V) a URL directly as a Markdown link ✅
-- A manifesto that startup owners would sign to promise that they would open-source their product whenever they decide to shut it down. ✅
-- Web-based bittorrent client (URL to direct download) ✅
-- A web-based remote control for whyd.com (when playing on another computer) ✅
-- A chrome extension that links each contact to their corresponding contact details form on contacts.google.com ✅
-- A way to group my incoming email based on my Google Contacts groups -> <a href="https://productforums.google.com/forum/#!category-topic/gmail/share-and-discuss-with-others/reading-and-receiving-messages/mac/google-chrome/GE-C9h1r_UA">productforums.google.com</a> ✅
-- "Done list", a service that would congratulate you for all the tasks that you checked today, in your favorite todo-list app. ✅
-- A service that agregates opinions about topics (e.g. Technologies), and allows comparing one with another. e.g. Emberjs vs Angularjs? ✅
-- 1poll: a simple doodle alternative that would allow participants to add dates (and vote for them) in a textual format, in a vertical list instead of a table ✅
-- "Copy That": An app that would convert a screenshot into a PDF with OCR'ed / copy-paste-able text. ✅
-- <span class="hashtag">#music</span> "Upbeat50", a smart spotify 50-track playlist based on your favorite upbeat tracks. To sync for offline listening during commute to work. Would be updated every week or month. ✅
-- <span class="hashtag">#productivity</span> "next step" for trello cards (chrome ext.): displays the next actionnable step under the title of each trello card ✅
-## Not done yet
+<style>
+  .hashtag{ color: #0366d6 }
+  .vote-button{ display:inline-block; opacity:0.5; }
+</style>
+
 - Script to automatically backup book/reading highlights from <a href="https://app.blinkist.com/en/highlights/">app.blinkist.com</a> to google drive 
   <div id="2159980202" class="vote-button">
     <div class="btn-o" data-scribe="component:button" style="width: 61px;">
@@ -872,8 +863,111 @@ title: Adrien Joly's ideas
       </a>
     </div>
   </div>
-
-<style>
-  .hashtag{ color: #0366d6 }
-  .vote-button{ display:inline-block; opacity:0.5; }
-</style>
+- Idea: a shortcut to paste (⌘V) a URL directly as a Markdown link 
+  <div id="2694631531" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20Idea%3A%20a%20shortcut%20to%20paste%20(%E2%8C%98V)%20a%20URL%20directly%20as%20a%20Markdown%20link&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%232694631531&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- A manifesto that startup owners would sign to promise that they would open-source their product whenever they decide to shut it down. 
+  <div id="1005979769" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20A%20manifesto%20that%20startup%20owners%20would%20sign%20to%20promise%20that%20they%20would%20open-source%20their%20product%20whenever%20they%20decide%20to%20shut%20it%20down.&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%231005979769&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- Web-based bittorrent client (URL to direct download) 
+  <div id="789391235" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20Web-based%20bittorrent%20client%20(URL%20to%20direct%20download)&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%23789391235&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- A web-based remote control for whyd.com (when playing on another computer) 
+  <div id="1120009113" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20A%20web-based%20remote%20control%20for%20whyd.com%20(when%20playing%20on%20another%20computer)&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%231120009113&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- A chrome extension that links each contact to their corresponding contact details form on contacts.google.com 
+  <div id="1088371764" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20A%20chrome%20extension%20that%20links%20each%20contact%20to%20their%20corresponding%20contact%20details%20form%20on%20contacts.google.com&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%231088371764&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- A way to group my incoming email based on my Google Contacts groups -> <a href="https://productforums.google.com/forum/#!category-topic/gmail/share-and-discuss-with-others/reading-and-receiving-messages/mac/google-chrome/GE-C9h1r_UA">productforums.google.com</a> 
+  <div id="1115124878" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20A%20way%20to%20group%20my%20incoming%20email%20based%20on%20my%20Google%20Contacts%20groups%20-%3E%20https%3A%2F%2Fproductforums.google.com%2Fforum%2F%23!category-topic%2Fgmail%2Fshare-and-discuss-with-others%2Freading-and-receiving-messages%2Fmac%2Fgoogle-chrome%2FGE-C9h1r_UA&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%231115124878&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- "Done list", a service that would congratulate you for all the tasks that you checked today, in your favorite todo-list app. 
+  <div id="1126355076" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20%22Done%20list%22%2C%20a%20service%20that%20would%20congratulate%20you%20for%20all%20the%20tasks%20that%20you%20checked%20today%2C%20in%20your%20favorite%20todo-list%20app.&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%231126355076&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- A service that agregates opinions about topics (e.g. Technologies), and allows comparing one with another. e.g. Emberjs vs Angularjs? 
+  <div id="983757736" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20A%20service%20that%20agregates%20opinions%20about%20topics%20(e.g.%20Technologies)%2C%20and%20allows%20comparing%20one%20with%20another.%20e.g.%20Emberjs%20vs%20Angularjs%3F&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%23983757736&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- 1poll: a simple doodle alternative that would allow participants to add dates (and vote for them) in a textual format, in a vertical list instead of a table 
+  <div id="1373174357" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%201poll%3A%20a%20simple%20doodle%20alternative%20that%20would%20allow%20participants%20to%20add%20dates%20(and%20vote%20for%20them)%20in%20a%20textual%20format%2C%20in%20a%20vertical%20list%20instead%20of%20a%20table&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%231373174357&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- "Copy That": An app that would convert a screenshot into a PDF with OCR'ed / copy-paste-able text. 
+  <div id="1485934795" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20%22Copy%20That%22%3A%20An%20app%20that%20would%20convert%20a%20screenshot%20into%20a%20PDF%20with%20OCR'ed%20%2F%20copy-paste-able%20text.&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%231485934795&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- <span class="hashtag">#music</span> "Upbeat50", a smart spotify 50-track playlist based on your favorite upbeat tracks. To sync for offline listening during commute to work. Would be updated every week or month. 
+  <div id="1777156469" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20%23music%20%22Upbeat50%22%2C%20a%20smart%20spotify%2050-track%20playlist%20based%20on%20your%20favorite%20upbeat%20tracks.%20To%20sync%20for%20offline%20listening%20during%20commute%20to%20work.%20Would%20be%20updated%20every%20week%20or%20month.&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%231777156469&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>
+- <span class="hashtag">#productivity</span> "next step" for trello cards (chrome ext.): displays the next actionnable step under the title of each trello card 
+  <div id="2082200375" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=adrienjoly&amp;text=Idea%3A%20%23productivity%20%22next%20step%22%20for%20trello%20cards%20(chrome%20ext.)%3A%20displays%20the%20next%20actionnable%20step%20under%20the%20title%20of%20each%20trello%20card&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fadrienjoly.com%2Fideas%232082200375&amp;via=adrienjoly" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </div>

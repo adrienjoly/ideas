@@ -48,9 +48,17 @@ const makeTwitterButton = (text, id, via, hastag) => `
 const items = json.data.tasks.filter(task => task.list_id == LIST_ID).reverse();
 
 // jekyll frontmatter
-console.log('---\ntitle: Adrien Joly\'s ideas\n---\n');
-console.log('<link rel="stylesheet" href="tests/tweet-btn.css?v2">');
+console.log(`---
+title: Adrien Joly's ideas
+---
 
+<link rel="stylesheet" href="tests/tweet-btn.css?v2">
+<style>
+  .hashtag{ color: #0366d6 }
+  .vote-button{ display:inline-block; opacity:0.5; }
+</style>
+`);
+/*
 console.log('## Done');
 
 items.filter(task => task.completed).forEach((task) => console.log(
@@ -60,17 +68,14 @@ items.filter(task => task.completed).forEach((task) => console.log(
 ));
 
 console.log('## Not done yet');
-
-items.filter(task => !task.completed && task.title[0] !== '(').forEach((task) => console.log(
-  '-',
-  processText(task.title),
-  makeTwitterButton('Idea: ' + task.title, task.id, TWITTER_USERNAME)
-));
+*/
+items
+  .filter(task => /*!task.completed &&*/ task.title[0] !== '(')
+  .forEach((task) => console.log(
+    '-',
+    processText(task.title),
+    makeTwitterButton('Idea: ' + task.title, task.id, TWITTER_USERNAME)
+  ));
 
 //<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 //<script async type="text/javascript" src="https://opensharecount.com/bubble.js"></script>
-console.log(`
-<style>
-  .hashtag{ color: #0366d6 }
-  .vote-button{ display:inline-block; opacity:0.5; }
-</style>`);
