@@ -11,3 +11,4 @@ This list was generated in Markdown+HTML/Jekyll from my Wunderlist JSON dump, us
 Next steps:
 
 - [Load tweet count for each idea](https://github.com/adrienjoly/ideas/issues/1)
+- [Experiment: use jekyll to render ideas from a JSON file #2](https://github.com/adrienjoly/ideas/issues/2)
