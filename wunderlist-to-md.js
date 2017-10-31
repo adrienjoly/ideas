@@ -57,7 +57,7 @@ items.filter(task => !task.completed && task.title[0] !== '(').forEach((task) =>
 
 console.log(`
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script type="text/javascript" src="//opensharecount.com/bubble.js"></script>
+<script async type="text/javascript" src="https://opensharecount.com/bubble.js"></script>
 <style>
   .hashtag{ color: #0366d6 }
   .vote-button{ display:inline-block; opacity:0.5; }
