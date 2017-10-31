@@ -12,6 +12,9 @@ const makeTwitterButton = (text, url, via, hastag) => `<a href="https://twitter.
 
 const items = json.data.tasks.filter(task => task.list_id == LIST_ID).reverse();
 
+// jekyll frontmatter
+console.log('---\ntitle: Adrien Joly\'s ideas\n---\n');
+
 console.log('## Done');
 
 items.filter(task => task.completed).forEach((task) => console.log(
@@ -22,7 +25,7 @@ items.filter(task => task.completed).forEach((task) => console.log(
 
 console.log('## Not done yet');
 
-items.filter(task => !task.completed).forEach((task) => console.log(
+items.filter(task => !task.completed && task.title[0] !== '(').forEach((task) => console.log(
   '-',
   task.title,
   makeTwitterButton('Idea: ' + task.title, URL_PREFIX + task.id, TWITTER_USERNAME)

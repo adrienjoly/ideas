@@ -1,3 +1,7 @@
+---
+title: Adrien Joly's ideas
+---
+
 ## Done
 - Idea: a shortcut to paste (⌘V) a URL directly as a Markdown link ✅
 - A manifesto that startup owners would sign to promise that they would open-source their product whenever they decide to shut it down. ✅
@@ -12,7 +16,6 @@
 - #music "Upbeat50", a smart spotify 50-track playlist based on your favorite upbeat tracks. To sync for offline listening during commute to work. Would be updated every week or month. ✅
 - #productivity "next step" for trello cards (chrome ext.): displays the next actionnable step under the title of each trello card ✅
 ## Not done yet
-- (cf ideas exported from pitchcard) <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Idea: (cf ideas exported from pitchcard)" data-url="https://adrienjoly.com/ideas#2694631488" data-via="adrienjoly" data-hashtags="" data-related="adrienjoly" data-show-count="true">Tweet</a><a href="http://leadstories.com/opensharecount" target="_blank" class="osc-counter" data-dir="left" title="Powered by Lead Stories' OpenShareCount">0</a>
 - Script to automatically backup book/reading highlights from https://app.blinkist.com/en/highlights/ to google drive <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Idea: Script to automatically backup book/reading highlights from https://app.blinkist.com/en/highlights/ to google drive" data-url="https://adrienjoly.com/ideas#2159980202" data-via="adrienjoly" data-hashtags="" data-related="adrienjoly" data-show-count="true">Tweet</a><a href="http://leadstories.com/opensharecount" target="_blank" class="osc-counter" data-dir="left" title="Powered by Lead Stories' OpenShareCount">0</a>
 - #productivity a Google-Inbox-inspired task management UI (with bundles and snooze) that also allows re-ordering tasks <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Idea: #productivity a Google-Inbox-inspired task management UI (with bundles and snooze) that also allows re-ordering tasks" data-url="https://adrienjoly.com/ideas#2096660781" data-via="adrienjoly" data-hashtags="" data-related="adrienjoly" data-show-count="true">Tweet</a><a href="http://leadstories.com/opensharecount" target="_blank" class="osc-counter" data-dir="left" title="Powered by Lead Stories' OpenShareCount">0</a>
 - #app Canned replies for any app (virtual keyboard + screen scraping, alternative to chatbots) <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Idea: #app Canned replies for any app (virtual keyboard + screen scraping, alternative to chatbots)" data-url="https://adrienjoly.com/ideas#2018795689" data-via="adrienjoly" data-hashtags="" data-related="adrienjoly" data-show-count="true">Tweet</a><a href="http://leadstories.com/opensharecount" target="_blank" class="osc-counter" data-dir="left" title="Powered by Lead Stories' OpenShareCount">0</a>
