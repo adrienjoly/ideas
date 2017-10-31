@@ -15,7 +15,7 @@ const sanitize = str => !str ? '' : str
   .replace(/"/g, '&quot;')
   .replace(/</g, '&lt;')
   .replace(/>/g, '&gt;');
-
+/*
 const makeTwitterButton = (text, id, via, hastag) => `
   <span id="${id}" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
@@ -33,11 +33,23 @@ const makeTwitterButton = (text, id, via, hastag) => `
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>`;
+*/
+
+const makeTwitterButton = (text, id, via, hastag) => `
+  <span id="${id}" class="vote-button">
+    <div class="btn-o" data-scribe="component:button" style="width: 61px;">
+      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fadrienjoly.com%2Fideas%2F&amp;ref_src=twsrc%5Etfw&amp;related=${encodeURIComponent(via)}&amp;text=${encodeURIComponent(text)}&amp;tw_p=tweetbutton&amp;url=${encodeURIComponent(URL_PREFIX + id)}&amp;via=${encodeURIComponent(via)}" class="btn" onclick="window.open(this.href);return false;">
+        <i></i>
+        <span class="label">Tweet</span>
+      </a>
+    </div>
+  </span>`;
 
 const items = json.data.tasks.filter(task => task.list_id == LIST_ID).reverse();
 
 // jekyll frontmatter
 console.log('---\ntitle: Adrien Joly\'s ideas\n---\n');
+console.log('<link rel="stylesheet" href="tests/tweet-btn.css">');
 
 console.log('## Done');
 
@@ -55,9 +67,9 @@ items.filter(task => !task.completed && task.title[0] !== '(').forEach((task) =>
   makeTwitterButton('Idea: ' + task.title, task.id, TWITTER_USERNAME)
 ));
 
+//<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+//<script async type="text/javascript" src="https://opensharecount.com/bubble.js"></script>
 console.log(`
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script async type="text/javascript" src="https://opensharecount.com/bubble.js"></script>
 <style>
   .hashtag{ color: #0366d6 }
   .vote-button{ display:inline-block; opacity:0.5; }
