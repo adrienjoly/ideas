@@ -6,6 +6,11 @@ const TWITTER_USERNAME = process.argv[5] || 'adrienjoly';
 const highlightTags = str => !str ? '' : str
   .replace(/(^|[ ])(\#[^ ]+)/g, '$1<span class="hashtag">$2</span>');
 
+const renderLinks = str => !str ? '' : str
+  .replace(/(https?\:\/\/([^\/ $]+)[^ $]*)/g, `<a href="$1">$2</a>`);
+
+const processText = str => renderLinks(highlightTags(str));
+
 const sanitize = str => !str ? '' : str
   .replace(/"/g, '&quot;')
   .replace(/</g, '&lt;')
@@ -38,7 +43,7 @@ console.log('## Done');
 
 items.filter(task => task.completed).forEach((task) => console.log(
   '-',
-  highlightTags(task.title),
+  processText(task.title),
   '✅'
 ));
 
@@ -46,7 +51,7 @@ console.log('## Not done yet');
 
 items.filter(task => !task.completed && task.title[0] !== '(').forEach((task) => console.log(
   '-',
-  highlightTags(task.title),
+  processText(task.title),
   makeTwitterButton('Idea: ' + task.title, task.id, TWITTER_USERNAME)
 ));
 

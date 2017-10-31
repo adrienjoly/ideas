@@ -8,7 +8,7 @@ title: Adrien Joly's ideas
 - Web-based bittorrent client (URL to direct download) ✅
 - A web-based remote control for whyd.com (when playing on another computer) ✅
 - A chrome extension that links each contact to their corresponding contact details form on contacts.google.com ✅
-- A way to group my incoming email based on my Google Contacts groups -> https://productforums.google.com/forum/#!category-topic/gmail/share-and-discuss-with-others/reading-and-receiving-messages/mac/google-chrome/GE-C9h1r_UA ✅
+- A way to group my incoming email based on my Google Contacts groups -> <a href="https://productforums.google.com/forum/#!category-topic/gmail/share-and-discuss-with-others/reading-and-receiving-messages/mac/google-chrome/GE-C9h1r_UA">productforums.google.com</a> ✅
 - "Done list", a service that would congratulate you for all the tasks that you checked today, in your favorite todo-list app. ✅
 - A service that agregates opinions about topics (e.g. Technologies), and allows comparing one with another. e.g. Emberjs vs Angularjs? ✅
 - 1poll: a simple doodle alternative that would allow participants to add dates (and vote for them) in a textual format, in a vertical list instead of a table ✅
@@ -16,7 +16,7 @@ title: Adrien Joly's ideas
 - <span class="hashtag">#music</span> "Upbeat50", a smart spotify 50-track playlist based on your favorite upbeat tracks. To sync for offline listening during commute to work. Would be updated every week or month. ✅
 - <span class="hashtag">#productivity</span> "next step" for trello cards (chrome ext.): displays the next actionnable step under the title of each trello card ✅
 ## Not done yet
-- Script to automatically backup book/reading highlights from https://app.blinkist.com/en/highlights/ to google drive 
+- Script to automatically backup book/reading highlights from <a href="https://app.blinkist.com/en/highlights/">app.blinkist.com</a> to google drive 
   <span id="2159980202" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1019,7 +1019,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- A app-less phone based on a terminal/box that realizes fonctionality based on the nature of entered data, cf https://medium.com/@adrienjoly/un-telephone-sans-apps-ef4c49519674 <span class="hashtag">#nophone</span> 
+- A app-less phone based on a terminal/box that realizes fonctionality based on the nature of entered data, cf <a href="https://medium.com/@adrienjoly/un-telephone-sans-apps-ef4c49519674">medium.com</a> <span class="hashtag">#nophone</span> 
   <span id="1002819394" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1087,7 +1087,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- <span class="hashtag">#info</span> Improve "Card this to trello" (Chome extension) so that it uploads a screenshot of the current page to the card. https://chrome.google.com/webstore/detail/card-this-to-trello/llapjidoaciepmfjchefhhachlmehfdl 
+- <span class="hashtag">#info</span> Improve "Card this to trello" (Chome extension) so that it uploads a screenshot of the current page to the card. <a href="https://chrome.google.com/webstore/detail/card-this-to-trello/llapjidoaciepmfjchefhhachlmehfdl">chrome.google.com</a> 
   <span id="939747334" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1546,7 +1546,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- <span class="hashtag">#info</span> Find good concerts of local/emerging bands -> http://www.ideaswatch.com/startup-idea/find-good-concerts-of-local-bands 
+- <span class="hashtag">#info</span> Find good concerts of local/emerging bands -> <a href="http://www.ideaswatch.com/startup-idea/find-good-concerts-of-local-bands">www.ideaswatch.com</a> 
   <span id="779148491" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1563,7 +1563,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- <span class="hashtag">#comm</span> Keyword-based local chatrooms -> http://www.ideaswatch.com/startup-idea/keyword-based-chatrooms 
+- <span class="hashtag">#comm</span> Keyword-based local chatrooms -> <a href="http://www.ideaswatch.com/startup-idea/keyword-based-chatrooms">www.ideaswatch.com</a> 
   <span id="779147838" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
@@ -1580,7 +1580,7 @@ title: Adrien Joly's ideas
        data-dir="left"
        title="Powered by Lead Stories' OpenShareCount">0</a>
   </span>
-- Service to help young music bands find gigs to open for (http://www.ideaswatch.com/startup-idea/facebook-social-app-for-musicians) 
+- Service to help young music bands find gigs to open for (<a href="http://www.ideaswatch.com/startup-idea/facebook-social-app-for-musicians)">www.ideaswatch.com</a> 
   <span id="779145675" class="vote-button">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
        class="twitter-share-button"
